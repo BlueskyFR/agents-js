@@ -1,5 +1,13 @@
 # @livekit/agents
 
+## 1.8.1
+
+### Patch Changes
+
+- Safely describe option objects in uploaded session reports. - [#2431](https://github.com/livekit/agents-js/pull/2431) ([@rosetta-livekit-bot](https://github.com/apps/rosetta-livekit-bot))
+
+- Stop retaining consumed audio frames in the forwarding result. - [#2433](https://github.com/livekit/agents-js/pull/2433) ([@rosetta-livekit-bot](https://github.com/apps/rosetta-livekit-bot))
+
 ## 1.8.0
 
 ### Minor Changes
